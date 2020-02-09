@@ -1,0 +1,11 @@
+name = "HELICS_jll"
+uuid = "ef3b0bb0-9dc6-5204-90f3-946fd7d0da3e"
+version = "2.4.0+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+ZeroMQ_jll = "8f1865be-045e-5c20-9c9f-bfbfb0764568"
+
+[compat]
+julia = "1.0"
