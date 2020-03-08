@@ -1,6 +1,6 @@
 name = "HELICS_jll"
 uuid = "ef3b0bb0-9dc6-5204-90f3-946fd7d0da3e"
-version = "2.4.0+0"
+version = "2.4.1+0"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
