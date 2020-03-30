@@ -8,7 +8,7 @@ LIBPATH = ""
 LIBPATH_env = "DYLD_FALLBACK_LIBRARY_PATH"
 
 # Relative path to `libhelicsSharedLib`
-const libhelicsSharedLib_splitpath = ["lib", "libhelicsSharedLib.2.4.1.dylib"]
+const libhelicsSharedLib_splitpath = ["lib", "libhelicsSharedLib.2.4.2.dylib"]
 
 # This will be filled out by __init__() for all products, as it must be done at runtime
 libhelicsSharedLib_path = ""
