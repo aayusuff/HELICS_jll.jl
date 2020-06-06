@@ -6,9 +6,10 @@ using ZeroMQ_jll
 PATH = ""
 LIBPATH = ""
 LIBPATH_env = "DYLD_FALLBACK_LIBRARY_PATH"
+LIBPATH_default = "~/lib:/usr/local/lib:/lib:/usr/lib"
 
 # Relative path to `libhelicsSharedLib`
-const libhelicsSharedLib_splitpath = ["lib", "libhelicsSharedLib.2.5.0.dylib"]
+const libhelicsSharedLib_splitpath = ["lib", "libhelicsSharedLib.2.5.1.dylib"]
 
 # This will be filled out by __init__() for all products, as it must be done at runtime
 libhelicsSharedLib_path = ""

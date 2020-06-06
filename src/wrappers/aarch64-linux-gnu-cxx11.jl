@@ -6,6 +6,7 @@ using ZeroMQ_jll
 PATH = ""
 LIBPATH = ""
 LIBPATH_env = "LD_LIBRARY_PATH"
+LIBPATH_default = ""
 
 # Relative path to `libhelicsSharedLib`
 const libhelicsSharedLib_splitpath = ["lib", "libhelicsSharedLib.so"]
