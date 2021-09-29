@@ -1,228 +1,228 @@
 [[HELICS]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "73e0c8e357749cc421acfadc58ab25c470ed5776"
+git-tree-sha1 = "99e3fafa16ac7f9fccfa3d494ea6387f48ec7008"
 libc = "glibc"
 os = "linux"
 
     [[HELICS.download]]
-    sha256 = "30e50af0677d7c7453612ccf59fa7eaac74be0f63e07244f9b3cda934a502410"
-    url = "https://github.com/JuliaBinaryWrappers/HELICS_jll.jl/releases/download/HELICS-v2.7.1+0/HELICS.v2.7.1.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "23188ebc6fcf32e775e788efbc951efba7d652f88b156be60906acf99c33013d"
+    url = "https://github.com/JuliaBinaryWrappers/HELICS_jll.jl/releases/download/HELICS-v2.8.0+0/HELICS.v2.8.0.aarch64-linux-gnu-cxx03.tar.gz"
 [[HELICS]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "247ae91388d7069987fec22e48d44726b4d657ff"
+git-tree-sha1 = "c16d3510a708541823d258642eca04da80cacccd"
 libc = "glibc"
 os = "linux"
 
     [[HELICS.download]]
-    sha256 = "2ff7f9b55c0ec25862b0387c1c7d37ee9ee6fd4ef5b6f179c9a5d759c205f9b0"
-    url = "https://github.com/JuliaBinaryWrappers/HELICS_jll.jl/releases/download/HELICS-v2.7.1+0/HELICS.v2.7.1.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "1778224da8d22cc8cec6a3539596a43b7727fc3737ab31a1d137ae2376657fb1"
+    url = "https://github.com/JuliaBinaryWrappers/HELICS_jll.jl/releases/download/HELICS-v2.8.0+0/HELICS.v2.8.0.aarch64-linux-gnu-cxx11.tar.gz"
 [[HELICS]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ca210f88c37a9f06ced3184c3e8ca90b7fd01530"
+git-tree-sha1 = "97355d9bf1c89be824e5e3ba5f1944ae166d8832"
 libc = "musl"
 os = "linux"
 
     [[HELICS.download]]
-    sha256 = "30237f8c8ee32dfa0b02b5f41c7c6db3f21046bee9fdd0f3515c862d21837f43"
-    url = "https://github.com/JuliaBinaryWrappers/HELICS_jll.jl/releases/download/HELICS-v2.7.1+0/HELICS.v2.7.1.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "7ab7d0cec45c805f7807539a2cde68509bb65633e915d64c64686545b3744c0c"
+    url = "https://github.com/JuliaBinaryWrappers/HELICS_jll.jl/releases/download/HELICS-v2.8.0+0/HELICS.v2.8.0.aarch64-linux-musl-cxx03.tar.gz"
 [[HELICS]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "db8ccf6a2e82dd882d0f300d9d821c04211f0577"
+git-tree-sha1 = "474cc4d3031a1493d90b4cf7b7b9611f1803240b"
 libc = "musl"
 os = "linux"
 
     [[HELICS.download]]
-    sha256 = "d53f0b299c1dca3d31d3ca551eb4961aabd9c6232bc0c9b0dea5fe641c8d49bb"
-    url = "https://github.com/JuliaBinaryWrappers/HELICS_jll.jl/releases/download/HELICS-v2.7.1+0/HELICS.v2.7.1.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "19d932137af87b7a82bc17c0c48562cd7eacaba847e63abdc0e460165d64bbb8"
+    url = "https://github.com/JuliaBinaryWrappers/HELICS_jll.jl/releases/download/HELICS-v2.8.0+0/HELICS.v2.8.0.aarch64-linux-musl-cxx11.tar.gz"
 [[HELICS]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b203dab34bab5bbe08822e8c28da902882c4c868"
+git-tree-sha1 = "f2a56ab9dd81f52c591768ac03afcc23cafcb807"
 libc = "glibc"
 os = "linux"
 
     [[HELICS.download]]
-    sha256 = "4e95791ebc4e621447f54368dc13b31224bba84129c6e784643368236f9af415"
-    url = "https://github.com/JuliaBinaryWrappers/HELICS_jll.jl/releases/download/HELICS-v2.7.1+0/HELICS.v2.7.1.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "7d0e0fb8a7b8300587b3ab6d3294d1d4b68bdb1c9597de8c0557dfcf07678269"
+    url = "https://github.com/JuliaBinaryWrappers/HELICS_jll.jl/releases/download/HELICS-v2.8.0+0/HELICS.v2.8.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[HELICS]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7419e74bbb95a0ffd044b076d5dee2ad49343d09"
+git-tree-sha1 = "ab4858c83f12eec816ec0a559ca3955061df7df2"
 libc = "glibc"
 os = "linux"
 
     [[HELICS.download]]
-    sha256 = "1a72bb3cec239ee062ba85443c496fda5b15db5ed3932b7cb44b3d1f95cfd062"
-    url = "https://github.com/JuliaBinaryWrappers/HELICS_jll.jl/releases/download/HELICS-v2.7.1+0/HELICS.v2.7.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "621c329323c3f74dcee6c9a294185b93e6337ece999ccc311e2bed8ff805ced1"
+    url = "https://github.com/JuliaBinaryWrappers/HELICS_jll.jl/releases/download/HELICS-v2.8.0+0/HELICS.v2.8.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[HELICS]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "0629350f48339a3ebbf7957f3d1a87ead7b628aa"
+git-tree-sha1 = "62ec356c5595f78e426649b67c811766e0718cb2"
 libc = "musl"
 os = "linux"
 
     [[HELICS.download]]
-    sha256 = "c158c46098e6cd79b360a12fb8f4b00f7ffefebff33f3bd3d1a7fa92c564f081"
-    url = "https://github.com/JuliaBinaryWrappers/HELICS_jll.jl/releases/download/HELICS-v2.7.1+0/HELICS.v2.7.1.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "d2253a7ee8e85ee33fd431e5005a7a5ed4b165f7b1fb958cb396ad90179976fb"
+    url = "https://github.com/JuliaBinaryWrappers/HELICS_jll.jl/releases/download/HELICS-v2.8.0+0/HELICS.v2.8.0.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[HELICS]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1378d3225e59be3f3371c606a8427e8585ae541a"
+git-tree-sha1 = "5b1fca967ad6cc482ea6b5ffe0c2bb1bc0b20313"
 libc = "musl"
 os = "linux"
 
     [[HELICS.download]]
-    sha256 = "62d270f895c0d06abfdd4a9102d7e0a53e2f8e01a0c3ef81e767813103fea827"
-    url = "https://github.com/JuliaBinaryWrappers/HELICS_jll.jl/releases/download/HELICS-v2.7.1+0/HELICS.v2.7.1.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "381032ba1a5440e84c26947caea62f5b6a7997d7853f5fae7df413d27bdf50e2"
+    url = "https://github.com/JuliaBinaryWrappers/HELICS_jll.jl/releases/download/HELICS-v2.8.0+0/HELICS.v2.8.0.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[HELICS]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7e252a5fc507e86b2c6a3fcc7d3cfdb24ee2a78e"
+git-tree-sha1 = "34cd6f0220c013d5ff17fa7a19ad41e0cfb35932"
 libc = "glibc"
 os = "linux"
 
     [[HELICS.download]]
-    sha256 = "6c3b99ed36d44553f2211b010bd12bd1a6db19bb1946bb2ee8fe8bd2c27a1a43"
-    url = "https://github.com/JuliaBinaryWrappers/HELICS_jll.jl/releases/download/HELICS-v2.7.1+0/HELICS.v2.7.1.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "755aa086040082b86e93ae7a1904950eaa7f1334eb1a7ac732d2d6378f8239f1"
+    url = "https://github.com/JuliaBinaryWrappers/HELICS_jll.jl/releases/download/HELICS-v2.8.0+0/HELICS.v2.8.0.i686-linux-gnu-cxx03.tar.gz"
 [[HELICS]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "54ecd6aa5ddd0fc0e09307f6cd0a6ccd8bb6c3c9"
+git-tree-sha1 = "128702ef779c304cb6e7f5ed8f4c3a2e36259e72"
 libc = "glibc"
 os = "linux"
 
     [[HELICS.download]]
-    sha256 = "0f795a657995e8e9f8a43f3ca9c84af43c42b5e7189f20d18ab91af7c6cd752c"
-    url = "https://github.com/JuliaBinaryWrappers/HELICS_jll.jl/releases/download/HELICS-v2.7.1+0/HELICS.v2.7.1.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "97be1678f38c01de88088487ba9f2f175b9266bc2d361eba237e6c4d7224d649"
+    url = "https://github.com/JuliaBinaryWrappers/HELICS_jll.jl/releases/download/HELICS-v2.8.0+0/HELICS.v2.8.0.i686-linux-gnu-cxx11.tar.gz"
 [[HELICS]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d77bfdb18c1e6c24e0a61ada18569b762246c996"
+git-tree-sha1 = "79c08c38026da2881efe270db3beddb761766c3d"
 libc = "musl"
 os = "linux"
 
     [[HELICS.download]]
-    sha256 = "a275f5218175a98cf6d62cae83a5a51832ee24a8c9a54ad228c984653009dc5c"
-    url = "https://github.com/JuliaBinaryWrappers/HELICS_jll.jl/releases/download/HELICS-v2.7.1+0/HELICS.v2.7.1.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "fdd11fdb98f7a4e9f2829e10d2a66d9ad3ceb6a032bb965e03e7485d7d68f561"
+    url = "https://github.com/JuliaBinaryWrappers/HELICS_jll.jl/releases/download/HELICS-v2.8.0+0/HELICS.v2.8.0.i686-linux-musl-cxx03.tar.gz"
 [[HELICS]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7eb43afd349b12868ea8ba1eef54603bd0af260f"
+git-tree-sha1 = "31d9db57fb5ab513a481995f2f6d1fc8d8afcca1"
 libc = "musl"
 os = "linux"
 
     [[HELICS.download]]
-    sha256 = "6cd9a208bd9a60e706383c0cb41e3c41ea02408f458272bd38a5607cb1dd4b5b"
-    url = "https://github.com/JuliaBinaryWrappers/HELICS_jll.jl/releases/download/HELICS-v2.7.1+0/HELICS.v2.7.1.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "205ff2d916eeadaff8710b5c5d4a688037555c08057f59ce31d07c41bf006842"
+    url = "https://github.com/JuliaBinaryWrappers/HELICS_jll.jl/releases/download/HELICS-v2.8.0+0/HELICS.v2.8.0.i686-linux-musl-cxx11.tar.gz"
 [[HELICS]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a4865346635e73d241b7f6ee7513ac82dc86eea8"
+git-tree-sha1 = "fa3cf254beb81cfc22b42a615c21971a9222565b"
 os = "windows"
 
     [[HELICS.download]]
-    sha256 = "074e195e1572a73ee06dcda08db304460decb818906334fb15a19547bb758617"
-    url = "https://github.com/JuliaBinaryWrappers/HELICS_jll.jl/releases/download/HELICS-v2.7.1+0/HELICS.v2.7.1.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "b68d3b5b462315c903338b2b1a9434aded2dde6fd5de2c99619a871e61ed552c"
+    url = "https://github.com/JuliaBinaryWrappers/HELICS_jll.jl/releases/download/HELICS-v2.8.0+0/HELICS.v2.8.0.i686-w64-mingw32-cxx03.tar.gz"
 [[HELICS]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4a9e1e574c625921afafa0d1e5bb11d06cb6fcc8"
+git-tree-sha1 = "68987a66b7baa1d05bf4368f8b6b98f91b201e78"
 os = "windows"
 
     [[HELICS.download]]
-    sha256 = "4c4899a43133fb82cef2d0cbb702d6d3b8cf6913a2e1eecb29540a3c95b46c30"
-    url = "https://github.com/JuliaBinaryWrappers/HELICS_jll.jl/releases/download/HELICS-v2.7.1+0/HELICS.v2.7.1.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "0e0056dfefa18186c32097bef56fd76a4a6bae4b638837d2adf1cc38fa8a8708"
+    url = "https://github.com/JuliaBinaryWrappers/HELICS_jll.jl/releases/download/HELICS-v2.8.0+0/HELICS.v2.8.0.i686-w64-mingw32-cxx11.tar.gz"
 [[HELICS]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f6328c801d1f8a88b80786a52cf020240abf3522"
+git-tree-sha1 = "42f7fd7d489fe8a3997ad0c6585dfd6ee592fc94"
 libc = "glibc"
 os = "linux"
 
     [[HELICS.download]]
-    sha256 = "5ca9ba4379a0a21d92c5e6a5cf6be54fc9f41960c56e0610ed3c21b88d03c948"
-    url = "https://github.com/JuliaBinaryWrappers/HELICS_jll.jl/releases/download/HELICS-v2.7.1+0/HELICS.v2.7.1.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "557fe85a4f6b850753f78ebb689bd2b14697f55ed4c6ff14710549a01c9f0c7e"
+    url = "https://github.com/JuliaBinaryWrappers/HELICS_jll.jl/releases/download/HELICS-v2.8.0+0/HELICS.v2.8.0.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[HELICS]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d0ecdb23fad64c2076d216700d9e72b81489bc27"
+git-tree-sha1 = "def5b2d1ad958970f020417a438b8dc03f94225a"
 libc = "glibc"
 os = "linux"
 
     [[HELICS.download]]
-    sha256 = "aa8fdd5986ef01991f5c6fd61ceccb7dc2d656524b9228eadb3b922ff61eecee"
-    url = "https://github.com/JuliaBinaryWrappers/HELICS_jll.jl/releases/download/HELICS-v2.7.1+0/HELICS.v2.7.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "9a64b12dbc809d5eaafecec4177057c6bba113c7db48c590654d50ec5e48af4e"
+    url = "https://github.com/JuliaBinaryWrappers/HELICS_jll.jl/releases/download/HELICS-v2.8.0+0/HELICS.v2.8.0.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[HELICS]]
 arch = "x86_64"
-git-tree-sha1 = "edd8aeec115d5e734ba769bd1cf5ed0d2a66e60b"
+git-tree-sha1 = "0b666340008a5f3b42867cc5346e8e509e1318f4"
 os = "macos"
 
     [[HELICS.download]]
-    sha256 = "b36ce3c31c2dcf80505f63f1440a37fe507e5e9aecface30d6fde07964872874"
-    url = "https://github.com/JuliaBinaryWrappers/HELICS_jll.jl/releases/download/HELICS-v2.7.1+0/HELICS.v2.7.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "d1934e266680c066567ac2801e0366bee83f2bd334fc38e80bfe1f18d0e0ce37"
+    url = "https://github.com/JuliaBinaryWrappers/HELICS_jll.jl/releases/download/HELICS-v2.8.0+0/HELICS.v2.8.0.x86_64-apple-darwin.tar.gz"
 [[HELICS]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4a35aac4a4f3214864307b79b3e7e87fac3c918e"
+git-tree-sha1 = "9ed53911b763e64d6b4d27e75ea64c544d236f44"
 libc = "glibc"
 os = "linux"
 
     [[HELICS.download]]
-    sha256 = "7657c529ae5c2bde545d64088eb01e56fc831ed08ca12dd4d7296162195ee5e5"
-    url = "https://github.com/JuliaBinaryWrappers/HELICS_jll.jl/releases/download/HELICS-v2.7.1+0/HELICS.v2.7.1.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "4eba090db490be8fa55c810456a07456cafbb805c4323f57961bf7108a670e24"
+    url = "https://github.com/JuliaBinaryWrappers/HELICS_jll.jl/releases/download/HELICS-v2.8.0+0/HELICS.v2.8.0.x86_64-linux-gnu-cxx03.tar.gz"
 [[HELICS]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6594bc1b2a1fa54229e9c4dddbd15641fe4f6377"
+git-tree-sha1 = "384be6fec8d266b6eb9d58682dd8f23c9eb117c0"
 libc = "glibc"
 os = "linux"
 
     [[HELICS.download]]
-    sha256 = "d99951f836bf160a6f6a96c588435e640861f4448beccc1d7ec8ca1d58c3af80"
-    url = "https://github.com/JuliaBinaryWrappers/HELICS_jll.jl/releases/download/HELICS-v2.7.1+0/HELICS.v2.7.1.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "e16a21ff513e0f3743e80138b252d9f4a29cb11ebee5029bd0a0e528ddd4e5a0"
+    url = "https://github.com/JuliaBinaryWrappers/HELICS_jll.jl/releases/download/HELICS-v2.8.0+0/HELICS.v2.8.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[HELICS]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "047e576b7d9068106e33a9d97efd3c62af05a664"
+git-tree-sha1 = "13e28341808aaedcec16bda9c7849bc29abe9b03"
 libc = "musl"
 os = "linux"
 
     [[HELICS.download]]
-    sha256 = "343f37a56f243d39167024a36c52da5b328b3ba74cea37308b830db2b3b24e38"
-    url = "https://github.com/JuliaBinaryWrappers/HELICS_jll.jl/releases/download/HELICS-v2.7.1+0/HELICS.v2.7.1.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "6e087dd8bec4ed0291e74b7ae02dfa763e3f5a8d4f123dd761272ab83dca42f4"
+    url = "https://github.com/JuliaBinaryWrappers/HELICS_jll.jl/releases/download/HELICS-v2.8.0+0/HELICS.v2.8.0.x86_64-linux-musl-cxx03.tar.gz"
 [[HELICS]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d02635317c811bb34fb210fad197c1f6a026aad2"
+git-tree-sha1 = "a16f7ef4220537e54c4e0e4ac7a94c5627f559da"
 libc = "musl"
 os = "linux"
 
     [[HELICS.download]]
-    sha256 = "ae13e0060bdc3de2d76e41355b9d646bc04ce3d6c4f95eeeabc4909dddb0c320"
-    url = "https://github.com/JuliaBinaryWrappers/HELICS_jll.jl/releases/download/HELICS-v2.7.1+0/HELICS.v2.7.1.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "fd03b56524e3a4bbfd40bdf67b1f0bf7aad9b34718698c5210384ba5786bab43"
+    url = "https://github.com/JuliaBinaryWrappers/HELICS_jll.jl/releases/download/HELICS-v2.8.0+0/HELICS.v2.8.0.x86_64-linux-musl-cxx11.tar.gz"
 [[HELICS]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "dfcb58feefa077f0e28ee8c1987eaf8923e7e3de"
+git-tree-sha1 = "2a09c259a9788993400396558ce80e9370acfaee"
 os = "windows"
 
     [[HELICS.download]]
-    sha256 = "b6d3bb76030af1853f104ed8d73c0fecdc1896f745493dcf3cfb8b45ffa46110"
-    url = "https://github.com/JuliaBinaryWrappers/HELICS_jll.jl/releases/download/HELICS-v2.7.1+0/HELICS.v2.7.1.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "c6b90c9b26acc2bb5f0fe65a47a12dad5629d672a980c72904062a2c88c2f713"
+    url = "https://github.com/JuliaBinaryWrappers/HELICS_jll.jl/releases/download/HELICS-v2.8.0+0/HELICS.v2.8.0.x86_64-w64-mingw32-cxx03.tar.gz"
 [[HELICS]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "64eb5ce53bfb358090d8708652b7ddcc6e0d2925"
+git-tree-sha1 = "5595298572e450bf7afaf0175691a3c6a9566eda"
 os = "windows"
 
     [[HELICS.download]]
-    sha256 = "4dd36de4ce415e757665e60e4b918dfe9784146916e0c636ac6cc52383f984c8"
-    url = "https://github.com/JuliaBinaryWrappers/HELICS_jll.jl/releases/download/HELICS-v2.7.1+0/HELICS.v2.7.1.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "594492d90a13055573691a3aea0d966403d8626a8f632653cf1a7238317469b1"
+    url = "https://github.com/JuliaBinaryWrappers/HELICS_jll.jl/releases/download/HELICS-v2.8.0+0/HELICS.v2.8.0.x86_64-w64-mingw32-cxx11.tar.gz"
