@@ -1,6 +1,6 @@
 name = "HELICS_jll"
 uuid = "ef3b0bb0-9dc6-5204-90f3-946fd7d0da3e"
-version = "3.3.2+0"
+version = "3.4.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
