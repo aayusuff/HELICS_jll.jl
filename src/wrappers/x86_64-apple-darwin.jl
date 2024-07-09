@@ -8,7 +8,7 @@ function __init__()
     JLLWrappers.@generate_init_header(ZeroMQ_jll)
     JLLWrappers.@init_library_product(
         libhelics,
-        "lib/libhelics.3.5.2.dylib",
+        "lib/libhelics.3.5.3.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
