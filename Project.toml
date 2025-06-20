@@ -9,7 +9,7 @@ ZeroMQ_jll = "8f1865be-045e-5c20-9c9f-bfbfb0764568"
 Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 
 [compat]
-JLLWrappers = "1.7.0"
-julia = "1.6"
-Libdl = "< 0.0.1, 1"
-Artifacts = "< 0.0.1, 1"
+JLLWrappers = "^1.7.0"
+julia = "^1.6"
+Libdl = "< 0.0.1, ^1"
+Artifacts = "< 0.0.1, ^1"
